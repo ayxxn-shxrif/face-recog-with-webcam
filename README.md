@@ -1,2 +1,4 @@
 # face-recog with webcam
- open the file and run on ur cmd
+ upload ur face  by creating a folder of your name in 'known_faces' folder
+ than run the '1.py' file 
+ 

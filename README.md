@@ -8,3 +8,6 @@ this program required:
 python=3.7.8 or above
 any text editor(vscode,sublime,atom)
 libraries like DLIB,OPENCV,FACE-RECOGNITION
+
+
+IF THIS THING DOESN'T WORK CONTACT ME @ayaansharif42@gmail.com
